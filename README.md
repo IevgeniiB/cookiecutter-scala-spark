@@ -9,7 +9,7 @@ This is a cookiecutter template for Scala Spark applications. You need to instal
   <pre># pip install cookiecutter</pre>
 
 <pre>
-  $ cookiecutter https://github.com/jpzk/cookiecutter-scala-spark.git
+  $ cookiecutter https://github.com/IevgeniiB/cookiecutter-scala-spark.git
   Cloning into 'cookiecutter-scala-spark'...
   remote: Counting objects: 32, done.
   remote: Compressing objects: 100% (25/25), done.
