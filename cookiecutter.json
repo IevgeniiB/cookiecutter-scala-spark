@@ -4,8 +4,9 @@
   "project_short_description":"A Scala Spark Application",
   "jarfile":"sparkapp.jar",
   "version":"0.0.1",
-  "scala_version":"2.10.4",
+  "scala_version":"2.11.12",
   "org_package":"org.something",
+  "entryclassname":"SparkApp",
   "org_name":"Organization",
   "org_website":"http://www.somesite.com"
 }
